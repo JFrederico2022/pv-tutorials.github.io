@@ -85,7 +85,7 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
         
         .. raw:: html
 
-           <img src="https://github.com/joaolucasdesouzasilva/IT306_Photovoltaic_System/blob/main/LESF-MV_Unicamp_Repository_Logo.jpeg?raw=true" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
+           <img src="https://github.com/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System/blob/main/LESF-MV_Unicamp_Repository_Logo.jpeg?raw=true" alt="logo" loading="lazy" style="max-width: 100%; max-height: 200px; margin-top: 1rem;"/>
 
         ^^^
 
@@ -93,13 +93,13 @@ event etc, you can contact us at pvlib-admin@googlegroups.com.
 
         +++
 
-        :bdg-link-primary:`Website <https://github.com/joaolucasdesouzasilva/IT306_Photovoltaic_System/blob/main/Notebook_1_Sizing_in_python_On_Grid.ipynb>` 
-        :bdg-link-primary:`Repository <https://github.com/joaolucasdesouzasilva/IT306_Photovoltaic_System>`
+        :bdg-link-primary:`Website <https://github.com/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System/blob/main/Notebook_1_Sizing_in_python_On_Grid.ipynb>` 
+        :bdg-link-primary:`Repository <https://github.com/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System>`
  
         .. raw:: html
 
-           <a href="https://github.com/joaolucasdesouzasilva/IT306_Photovoltaic_System">
-           <img src="https://img.shields.io/github/stars/joaolucasdesouzasilva/IT306_Photovoltaic_System?style=social"/>
+           <a href="https://github.com/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System">
+           <img src="https://img.shields.io/github/stars/joaolucasdesouzasilva/2025.2_IT306_Photovoltaic_System?style=social"/>
            </a>
 
     .. grid-item-card:: 2025_pvlib_pvsc
